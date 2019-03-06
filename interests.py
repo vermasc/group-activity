@@ -52,7 +52,7 @@ d = {
     "Tiwary, Shweta": "Fill in interest here",
     "Trevino, Melissa": "Fill in interest here",
     "Ullah, Ehsan": "Fill in interest here",
-    "Verma, Subhash": "Fill in interest here",
+    "Verma, Subhash": "Microbiology",
     "Wang, Yiran": "Structural Biology",
     "Wigerblad, Gustaf": "Fill in interest here",
     "Yau, Jessica": "Fill in interest here",
